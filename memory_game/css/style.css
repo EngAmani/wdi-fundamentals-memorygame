@@ -1,5 +1,6 @@
 body {
 text-align: center;
+margin: 0;
 }
 
 h1{
@@ -8,6 +9,7 @@ h1{
 	letter-spacing:1px;
 	font-weight:400;
 	font-size: 45px;
+	margin: 0;
 }
 a{
 	font-family: RALEWAY;
@@ -47,4 +49,40 @@ h4{
 li{
 	color: green;
 	display: inline;
+}
+header{
+	background-color: #F15B31;
+	color:#FFFFFF;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+nav{
+	background-color: #00A6B3;
+	color: #FFFFFF;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+a{
+	color: #FFFFFF;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+main{
+
+	width: 850px;
+	margin:35px auto;
+}
+
+img{
+
+	margin-top: 40px;
+	margin-left: 8px;
+	margin-right: 8px;
+}
+.bounas{
+	background-color: #00A6B3;
 }
