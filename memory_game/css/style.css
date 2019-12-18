@@ -10,6 +10,8 @@ h1{
 	font-weight:400;
 	font-size: 45px;
 	margin: 0;
+	text-transform:uppercase;
+
 }
 a{
 	font-family: RALEWAY;
@@ -25,6 +27,8 @@ h2{
 	letter-spacing:1px;
 	font-weight:600;
 	font-size: 20px;
+	text-transform:uppercase;
+
 }
 p{
 	font-family: "DROID SERIF";
@@ -70,6 +74,8 @@ a{
 	margin-left: 20px;
 	margin-right: 20px;
 border-bottom: 2px solid transparent;
+text-transform:uppercase;
+
 }
 main{
 
@@ -87,7 +93,7 @@ img{
 	background-color: #00A6B3;
 }
 footer{
-text-decoration:uppercase;
+text-transform:uppercase;
 
  padding-right:20px;
  padding-left:20px;
